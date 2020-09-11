@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-#####click here to see my protfolio
+##### click here to see my protfolio
 
 [View]( https://akhil775.github.io/protfolio/)
 
